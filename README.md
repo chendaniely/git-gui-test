@@ -6,3 +6,5 @@
 4. VSCode (Windows + Mac + Linux)
     - Git Lens extension
 5. RStudio
+6. PyCharm
+
